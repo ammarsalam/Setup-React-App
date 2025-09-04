@@ -1,7 +1,7 @@
 # Get started with Database Setup
 Setup Database (XAMPP MySQL) for React App 
 
-# Steps
+## Steps
 
 1) Prerequisites
 ----------------
